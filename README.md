@@ -89,13 +89,13 @@ Commit this to your branch.
 10. **Wait for the Action to complete and the bot to comment in the PR.**
 11. **Working in PR "Improve CI"**
 
-The bot wants you to make some changes. The bot is very wrong.
+The bot wants you to make some changes. The bot is _very_ wrong.
 
 <p align="center">
   <img src=images/step11.png />
 </p>
 
-If you took the bot's suggestion here, you will delete your `build` task keyword and future steps will compound the error. Look at this diff and make this edit instead, we are simply adding the action as a 2nd step under already existing one.
+If you took the bot's suggestion here, you will delete your `build` task keyword and future steps will compound the error. Look at this diff and make this edit instead, we are simply adding the action as a 2nd step under the already existing one.
 
 <p align="center">
   <img src=images/step11-diff.png />
