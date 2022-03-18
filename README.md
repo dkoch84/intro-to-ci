@@ -86,8 +86,9 @@ jobs:
 
 Commit this to your branch.
 
-10. **Wait for the Action to complete and the bot to comment in the PR.**
-11. **Working in PR "Improve CI"**
+### **10. Wait for the Action to complete and the bot to comment in the PR.**
+
+### **11. Working in PR "Improve CI"**
 
 The bot wants you to make some changes. The bot is _very_ wrong.
 
@@ -101,7 +102,7 @@ If you took the bot's suggestion here, you will delete your `build` task keyword
   <img src=images/step11-diff.png />
 </p>
 
-12. **Working in PR "Improve CI" - More bot errors.**
+### **12. Working in PR "Improve CI" - More bot errors.**
 
 The first suggestion it has is to add a dependency on the **build** job to the **build** job. That just doesn't make sense. It wants to replace our instruction to use a particular build machine too. Not great. Line 8? Try line 22.
 
@@ -115,13 +116,18 @@ The second suggested change is also all wrong. See the diff instead
   <img src=images/step12-diff.png />
 </p>
 
-13. **Working in PR "Improve CI" - Merge it**
+### **13. Working in PR "Improve CI" - Merge it**
 
 <p align="center">
   <img src=images/step13.png />
 </p>
-14. __Working in PR "A custom workflow" - Complete as instructed__
-15. __Working in PR "A custom workflow" - Commit the suggestion__
-16. __Working in PR "A custom workflow" - Commit the suggestion__
-17. __Working in PR "A custom workflow" - Follow instructions.__
-18. __Working in PR "A custom workflow" - Follow instructions.__
+
+### **14. Working in PR "A custom workflow" - Complete as instructed**
+
+### **15. Working in PR "A custom workflow" - Commit the suggestion**
+
+### **16. Working in PR "A custom workflow" - Commit the suggestion**
+
+### **17. Working in PR "A custom workflow" - Follow instructions.**
+
+### **18. Working in PR "A custom workflow" - Follow instructions.**
